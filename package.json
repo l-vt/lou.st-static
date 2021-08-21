@@ -1,0 +1,12 @@
+{
+  "name": "loust",
+  "description": "Personal website of Louis Vogt",
+  "version": "1.0",
+  "author": "Louis Vogt",
+  "scripts": {
+    "style": "stylus -w src/style/ -o css/"
+  },
+  "dependencies": {
+    "stylus": "^0.54.8"
+  }
+}
