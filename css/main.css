@@ -33,6 +33,7 @@ section {
 }
 section ul.flex {
   display: flex;
+  flex-wrap: wrap;
 }
 section ul.flex li {
   padding: 0 1em 0 0;
